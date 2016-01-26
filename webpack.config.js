@@ -28,7 +28,7 @@ module.exports = {
     alias:[
     {'react-dom':'./libs/react-dom.js','react':'./libs/react.js'}
     ]
-  },
+  },  
   plugins: [
   new webpack.HotModuleReplacementPlugin()
   ]
